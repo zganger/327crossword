@@ -1,0 +1,7 @@
+# -------------------------------------------------------
+# App: com.sudoku327, date: 20131208-20131209
+# -------------------------------------------------------
+
+date,current_device_installs,daily_device_installs,daily_device_uninstalls,daily_device_upgrades,current_user_installs,total_user_installs,daily_user_installs,daily_user_uninstalls
+20131209,29,10,1,0,29,31,10,1
+20131208,21,21,0,0,21,21,21,0

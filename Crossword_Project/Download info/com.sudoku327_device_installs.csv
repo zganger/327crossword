@@ -1,0 +1,49 @@
+# -------------------------------------------------------
+# App: com.sudoku327, date: 20131208-20131209
+# -------------------------------------------------------
+
+date,device,current_device_installs,daily_device_installs,daily_device_uninstalls,daily_device_upgrades,current_user_installs,total_user_installs,daily_user_installs,daily_user_uninstalls
+20131209,LGE Optimus L9 (u2),1,0,0,0,1,1,0,0
+20131209,Google Galaxy Nexus (toro),2,0,0,0,2,2,0,0
+20131209,Samsung Galaxy Note2 (t0lteatt),1,0,0,0,1,1,0,0
+20131209,Google Nexus 4 (mako),1,1,1,0,1,2,1,1
+20131209,HTC HTC One (m7),1,1,0,0,1,1,1,0
+20131209,Samsung Galaxy S4 (jfltevzw),1,0,0,0,1,1,0,0
+20131209,Samsung Galaxy S4 (jfltespr),1,1,0,0,1,1,1,0
+20131209,Samsung Galaxy S4 (jflteatt),2,0,0,0,2,2,0,0
+20131209,Google Nexus 7 (grouper),1,0,0,0,1,1,0,0
+20131209,Samsung Galaxy Victory (goghvmu),1,0,0,0,1,1,0,0
+20131209,Motorola Moto X (ghost),1,0,0,0,1,1,0,0
+20131209,LGE Optimus F3 (fx3),1,0,0,0,1,1,0,0
+20131209,Samsung Galaxy S3 (d2vzw),1,0,0,0,1,1,0,0
+20131209,Samsung Galaxy S3 (d2tmo),1,1,0,0,1,1,1,0
+20131209,Samsung Galaxy S3 (d2spr),1,0,0,0,1,1,0,0
+20131209,Samsung Galaxy S3 (d2att),1,1,0,0,1,1,1,0
+20131209,Google Nexus S (crespo4g),1,0,0,0,1,1,0,0
+20131209,Motorola Droid Bionic (cdma_targa),2,1,0,0,2,2,1,0
+20131209,Motorola DROID RAZR (cdma_spyder),2,0,0,0,2,2,0,0
+20131209,Motorola MB612 (cdma_kronos),1,0,0,0,1,1,0,0
+20131209,LGE LG Connect 4G (cayman),1,1,0,0,1,1,1,0
+20131209,Asus ASUS Transformer Pad TF300T (TF300T),1,0,0,0,1,1,0,0
+20131209,Samsung Galaxy S Blaze (SGH-T769),1,1,0,0,1,1,1,0
+20131209,Samsung Galaxy Exhibit (SGH-T679),1,1,0,0,1,1,1,0
+20131209,Samsung Galaxy SII Skyrocket (SGH-I727),1,0,0,0,1,1,0,0
+20131209,Sony Ericsson Xperia Z (C6606),0,1,0,0,0,1,1,0
+20131208,LGE Optimus L9 (u2),1,1,0,0,1,1,1,0
+20131208,Google Galaxy Nexus (toro),2,2,0,0,2,2,2,0
+20131208,Samsung Galaxy Note2 (t0lteatt),1,1,0,0,1,1,1,0
+20131208,Google Nexus 4 (mako),1,1,0,0,1,1,1,0
+20131208,Samsung Galaxy S4 (jfltevzw),1,1,0,0,1,1,1,0
+20131208,Samsung Galaxy S4 (jflteatt),2,2,0,0,2,2,2,0
+20131208,Google Nexus 7 (grouper),1,1,0,0,1,1,1,0
+20131208,Samsung Galaxy Victory (goghvmu),1,1,0,0,1,1,1,0
+20131208,Motorola Moto X (ghost),1,1,0,0,1,1,1,0
+20131208,LGE Optimus F3 (fx3),1,1,0,0,1,1,1,0
+20131208,Samsung Galaxy S3 (d2vzw),1,1,0,0,1,1,1,0
+20131208,Samsung Galaxy S3 (d2spr),1,1,0,0,1,1,1,0
+20131208,Google Nexus S (crespo4g),1,1,0,0,1,1,1,0
+20131208,Motorola Droid Bionic (cdma_targa),1,1,0,0,1,1,1,0
+20131208,Motorola DROID RAZR (cdma_spyder),2,2,0,0,2,2,2,0
+20131208,Motorola MB612 (cdma_kronos),1,1,0,0,1,1,1,0
+20131208,Asus ASUS Transformer Pad TF300T (TF300T),1,1,0,0,1,1,1,0
+20131208,Samsung Galaxy SII Skyrocket (SGH-I727),1,1,0,0,1,1,1,0

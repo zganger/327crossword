@@ -1,0 +1,17 @@
+# -------------------------------------------------------
+# App: com.sudoku327, date: 20131208-20131209
+# -------------------------------------------------------
+
+date,os_version,current_device_installs,daily_device_installs,daily_device_uninstalls,daily_device_upgrades,current_user_installs,total_user_installs,daily_user_installs,daily_user_uninstalls
+20131209,Android 2.2,1,0,0,0,1,1,0,0
+20131209,Android 4.4,3,1,0,0,3,3,1,0
+20131209,Android 4.3,2,1,1,0,2,3,1,1
+20131209,Android 4.2,5,1,0,0,5,6,1,0
+20131209,Android 4.1,15,4,0,0,15,15,4,0
+20131209,Android 4.0.3 - 4.0.4,1,1,0,0,1,1,1,0
+20131209,Android 2.3.3 - 2.3.7,2,2,0,0,2,2,2,0
+20131208,Android 2.2,1,1,0,0,1,1,1,0
+20131208,Android 4.4,2,2,0,0,2,2,2,0
+20131208,Android 4.3,2,2,0,0,2,2,2,0
+20131208,Android 4.2,5,5,0,0,5,5,5,0
+20131208,Android 4.1,11,11,0,0,11,11,11,0
